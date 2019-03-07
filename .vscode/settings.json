@@ -1,0 +1,16 @@
+{
+  "prettier.disableLanguages": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ],
+  "eslint.autoFixOnSave": true,
+  "eslint.codeAction.showDocumentation": {
+    "enable": true
+  },
+  "eslint.workingDirectories": [
+    { "directory": "./test", "changeProcessCWD": true }
+  ],
+  "eslint.validate": ["javascript", "javascriptreact"]
+}

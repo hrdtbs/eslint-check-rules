@@ -1,0 +1,3 @@
+{
+  "extends": ["hrdtbs/node-v11", "hrdtbs/+mocha", "hrdtbs/+prettier"]
+}
