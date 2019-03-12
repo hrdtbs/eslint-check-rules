@@ -9,8 +9,8 @@
   "scripts": {
     "dev": "chokidar \"src/*.js\" -c \"yarn start\"",
     "start": "node ./src/index.js",
-    "lint:js": "eslint '**/*.js' '**/.*.js'",
-    "lint:js:fix": "eslint '**/*.js' '**/.*.js' --fix",
+    "lint:js": "eslint '**/*.js' '**/*.*.js'",
+    "lint:js:fix": "eslint '**/*.js' '**/*.*.js' --fix",
     "lint:json": "prettier --list-different '**/*.json'",
     "lint:json:fix": "prettier --write '**/*.json'",
     "test": "run-p -l -n -c --aggregate-output lint:js lint:json unit",
