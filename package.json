@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "files": [
-    "src"
+    "src/**/*.js"
   ],
   "scripts": {
     "dev": "chokidar \"src/*.js\" -c \"yarn start\"",
