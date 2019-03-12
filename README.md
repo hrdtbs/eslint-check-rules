@@ -1,6 +1,6 @@
 # eslint-check-rules
 
-To be developed
+**For now, I don't think there are demands for others, so I'm only developing for myself.**
 
 ## options
 
