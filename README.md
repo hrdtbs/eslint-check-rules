@@ -1,3 +1,7 @@
 # eslint-check-rules
 
-to be developed
+To be developed
+
+## options
+
+Look at [my configuration](./src/lib/cli.js) of [`yargs`](https://github.com/yargs/yargs)
