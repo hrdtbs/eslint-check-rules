@@ -19,6 +19,11 @@
     "rangeStrategy": "bump",
     "packageRules": [
       {
+        "groupName": "ESLint and Prettier",
+        "packageNames": ["eslint", "prettier"],
+        "packagePatterns": ["^eslint-config-", "^eslint-plugin-"]
+      },
+      {
         "description": "automerge minor updates of widely used libraries in devDeps",
         "updateTypes": ["minor"],
         "depTypeList": ["devDependencies"],
