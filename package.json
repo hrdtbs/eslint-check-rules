@@ -42,6 +42,6 @@
   },
   "preferGlobal": true,
   "bin": {
-    "eslint-check-rules": "./src/bin/check.js"
+    "eslint-check-rules": "./src/bin/index.js"
   }
 }
