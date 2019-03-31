@@ -699,8 +699,8 @@ escape-string-regexp@1.0.5, escape-string-regexp@^1.0.5:
 
 eslint-config-hrdtbs@hrdtbs/eslint-config-hrdtbs:
   version "0.0.2"
-  uid fbf6183d4f21ddf80b200b1056c74a404cfa121a
-  resolved "https://codeload.github.com/hrdtbs/eslint-config-hrdtbs/tar.gz/fbf6183d4f21ddf80b200b1056c74a404cfa121a"
+  uid f1e3818d112c9dc2001e48f42cbf142e64cd8cda
+  resolved "https://codeload.github.com/hrdtbs/eslint-config-hrdtbs/tar.gz/f1e3818d112c9dc2001e48f42cbf142e64cd8cda"
   dependencies:
     "@typescript-eslint/eslint-plugin" "^1.5.0"
     eslint-config-prettier "^4.1.0"
@@ -1820,9 +1820,9 @@ mimic-fn@^1.0.0:
   integrity sha512-jf84uxzwiuiIVKiOLpfYk7N46TSy8ubTonmneY9vrpHNAnp0QBt2BxWV9dO3/j+BoVAb+a5G6YDPW3M5HOdMWQ==
 
 mimic-fn@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/mimic-fn/-/mimic-fn-2.0.0.tgz#0913ff0b121db44ef5848242c38bbb35d44cabde"
-  integrity sha512-jbex9Yd/3lmICXwYT6gA/j2mNQGU48wCh/VzRd+/Y/PjYQtlg1gLMdZqvu9s/xH7qKvngxRObl56XZR609IMbA==
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/mimic-fn/-/mimic-fn-2.1.0.tgz#7ed2c2ccccaf84d3ffcb7a69b57711fc2083401b"
+  integrity sha512-OqbOk5oEQeAZ8WXWydlu9HJjz9WVdEIvamMCcXmuqUYjTknH/sqsWvhQ3vgwKFRR1HpjvNBKQ37nbJgYzGqGcg==
 
 minimatch@3.0.4, minimatch@^3.0.4:
   version "3.0.4"
