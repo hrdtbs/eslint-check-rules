@@ -699,8 +699,8 @@ escape-string-regexp@1.0.5, escape-string-regexp@^1.0.5:
 
 eslint-config-hrdtbs@hrdtbs/eslint-config-hrdtbs:
   version "0.0.2"
-  uid f1e3818d112c9dc2001e48f42cbf142e64cd8cda
-  resolved "https://codeload.github.com/hrdtbs/eslint-config-hrdtbs/tar.gz/f1e3818d112c9dc2001e48f42cbf142e64cd8cda"
+  uid "005eba8d9c70ba7a448899e3219c154ef697314a"
+  resolved "https://codeload.github.com/hrdtbs/eslint-config-hrdtbs/tar.gz/005eba8d9c70ba7a448899e3219c154ef697314a"
   dependencies:
     "@typescript-eslint/eslint-plugin" "^1.5.0"
     eslint-config-prettier "^4.1.0"
@@ -1782,9 +1782,9 @@ map-visit@^1.0.0:
     object-visit "^1.0.0"
 
 mem@^4.0.0:
-  version "4.2.0"
-  resolved "https://registry.yarnpkg.com/mem/-/mem-4.2.0.tgz#5ee057680ed9cb8dad8a78d820f9a8897a102025"
-  integrity sha512-5fJxa68urlY0Ir8ijatKa3eRz5lwXnRCTvo9+TbTGAuTFJOwpGcY0X05moBd0nW45965Njt4CDI2GFQoG8DvqA==
+  version "4.3.0"
+  resolved "https://registry.yarnpkg.com/mem/-/mem-4.3.0.tgz#461af497bc4ae09608cdb2e60eefb69bff744178"
+  integrity sha512-qX2bG48pTqYRVmDB37rn/6PT7LcR8T7oAX3bf99u1Tt1nzxYfxkgqDwUwolPlXweM0XzBOBFzSx4kfp7KP1s/w==
   dependencies:
     map-age-cleaner "^0.1.1"
     mimic-fn "^2.0.0"
