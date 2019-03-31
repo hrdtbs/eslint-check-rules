@@ -18,7 +18,7 @@
     "unit:watch": "chokidar 'test/*.js' -c 'yarn unit'"
   },
   "peerDependencies": {
-    "eslint": "^5.15.3",
+    "eslint": "^5.16.0",
     "lodash": "^4.17.11"
   },
   "engines": {
@@ -37,7 +37,7 @@
     "prettier": "^1.16.4"
   },
   "dependencies": {
-    "eslint": "^5.15.3",
+    "eslint": "^5.16.0",
     "yargs": "^13.2.2"
   },
   "preferGlobal": true,
