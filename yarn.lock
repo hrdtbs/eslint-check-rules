@@ -696,8 +696,8 @@ escape-string-regexp@1.0.5, escape-string-regexp@^1.0.5:
 
 eslint-config-hrdtbs@hrdtbs/eslint-config-hrdtbs:
   version "0.0.2"
-  uid "075b3ac12ba106bdf7239bcd01f468c6f726722c"
-  resolved "https://codeload.github.com/hrdtbs/eslint-config-hrdtbs/tar.gz/075b3ac12ba106bdf7239bcd01f468c6f726722c"
+  uid "3993fa4c2f32719d8ab0aa0161d7a4760875361d"
+  resolved "https://codeload.github.com/hrdtbs/eslint-config-hrdtbs/tar.gz/3993fa4c2f32719d8ab0aa0161d7a4760875361d"
   dependencies:
     "@typescript-eslint/eslint-plugin" "^1.6.0"
     eslint-config-prettier "^4.1.0"
