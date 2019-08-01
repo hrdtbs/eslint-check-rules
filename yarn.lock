@@ -347,7 +347,7 @@ check-error@^1.0.2:
   resolved "https://registry.yarnpkg.com/check-error/-/check-error-1.0.2.tgz#574d312edd88bb5dd8912e9286dd6c0aed4aac82"
   integrity sha1-V00xLt2Iu13YkS6Sht1sCu1KrII=
 
-chokidar-cli@^1.2.2:
+chokidar-cli@^1.2.3:
   version "1.2.3"
   resolved "https://registry.yarnpkg.com/chokidar-cli/-/chokidar-cli-1.2.3.tgz#28fe28da1c3a12b444f52ddbe8a472358a32279f"
   integrity sha512-HcHjqeQaT/u0Swy4eaqqg0NhPjsXq6ZN9YzP48EYc81FXBLQuvMXBsrEMDkgH+Puup1mBc0gD0qqECDy/WiMOA==
